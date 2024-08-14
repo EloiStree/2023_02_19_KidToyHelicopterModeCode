@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.helicoptertoy",                              
+  "displayName": "Helicopter Toy Code",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allow to have helicopter toy in Unity.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_02_19_KidToyHelicopterModeCode.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
