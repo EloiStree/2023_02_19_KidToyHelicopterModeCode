@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.eloistree.helicoptertoyEditor",          
-    "references": ["be.eloistree.helicoptertoy"
+            "name": "be.elab.helicoptertoyEditor",          
+    "references": ["be.elab.helicoptertoy"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           
