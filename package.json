@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.hellocopter",                              
+  "displayName": "Hello Copter Demo",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Small demo of how to do a helicopter in Unity3D and draw it. ",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_09_10_HelicopterMove.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
