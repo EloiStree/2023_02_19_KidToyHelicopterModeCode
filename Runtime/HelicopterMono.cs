@@ -66,4 +66,17 @@ public class HelicopterMono : MonoBehaviour
             m_moveDownToUpPercent,
             m_typeOfSpaceMove);
     }
+
+    public void SetRotationLeftToRight(float percent) {
+        m_rotateLeftRightPercent = percent;
+    }
+    public void SetMoveBackToFront(float percent) {
+        m_moveBackToFrontPercent = percent;
+    }
+    public void SetMoveLeftToRight(float percent) {
+        m_moveLeftToRightPercent = percent;
+    }
+    public void SetMoveDownToUp(float percent) {
+        m_moveDownToUpPercent = percent;
+    }
 }
